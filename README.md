@@ -1,0 +1,2 @@
+# SQLCodesRepo
+SQL Codes details
